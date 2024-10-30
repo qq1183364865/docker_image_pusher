@@ -9,6 +9,8 @@ postgres:15-alpine
 nginx:latest
 certbot/certbot
 
+eosphorosai/dbgpt:latest
+
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
