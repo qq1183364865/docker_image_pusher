@@ -1,6 +1,6 @@
 #支持私库
-eosphorosai/dbgpt:latest
-lobehub/lobe-chat:latest
+#eosphorosai/dbgpt:latest
+apache/tika:latest
 
 
 #支持指定架构
