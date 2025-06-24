@@ -5,7 +5,9 @@
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #milvusdb/milvus:v2.5.5
 #zilliz/attu:v2.5
-neo4j:latest
+#neo4j:latest
+
+ghcr.io/open-webui/open-webui:main
 
 
 #支持指定架构
