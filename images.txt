@@ -10,6 +10,7 @@
 #vllm/vllm-openai:latest
 
 docker.io/variantconst/openwebui-monitor:latest
+postgres:15-alpine
 
 
 #支持指定架构
