@@ -9,7 +9,6 @@
 #ghcr.io/open-webui/open-webui:main
 #vllm/vllm-openai:latest
 
-otel/opentelemetry-collector-contrib:0.128.0
 
 
 #支持指定架构
