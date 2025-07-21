@@ -6,7 +6,7 @@
 #milvusdb/milvus:v2.5.5
 #zilliz/attu:v2.5
 #neo4j:latest
-#ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:main
 #vllm/vllm-openai:latest
 
 # openwebui监控
